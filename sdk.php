@@ -2,8 +2,8 @@
 
 class InterstateStreaming {
 
-	const API_ROOT	= 'interstateapp.com';
-	const API_PATH	= '/streaming/sub';
+	const API_ROOT	= 'streaming.interstateapp.com';
+	const API_PATH	= '/';
 	
 	private $_oauthToken;
 	private $_https	= true;
